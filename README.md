@@ -21,6 +21,17 @@ This project presents an interactive Power BI dashboard developed using the Adid
 - Operating Margin: Approximately 42%
 
 ## Dashboard Features
+## Dashboard Screenshots
+
+### CEO Overview Page
+![CEO Overview](CEO_Overview_Page.png)
+
+### Operation and Sales Page
+![Operation and Sales](Operation_and_Sales.png)
+
+### Product and Market Performance Page
+![Product and Market Performance](Product_and_Market_Performance.png)
+
 - CEO overview page
 - KPI cards
 - Sales and profit analysis
