@@ -41,6 +41,8 @@ This project presents an interactive Power BI dashboard developed using the Adid
 ### Product and Market Performance Page
 ![Product and Market Performance](Product_and_Market_Performance.png)
 
+## Note
+The original Power BI (.pbix) file is not publicly shared to protect the project design. Dashboard screenshots are provided for portfolio demonstration.
 
 ## Tools Used
 - Power BI
